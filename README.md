@@ -24,7 +24,7 @@ Parallel execution of tests done (by adjusting maxInstances in wdio.conf)
 Reporting of the results is made using Allure Reports using npx allure generate allure-results --clean  command.
 
 ## To build the image:
-docker build -t \\<docker image name>\\:\\<version number>\\ .
+docker build -t \\<docker image name\\>:\\<version number\\> .
 
 ## To run the a container:
   docker run -it <docker image name>:<version number>
