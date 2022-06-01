@@ -1,4 +1,4 @@
-# Volvo  Test Automation Framework 
+## Volvo  Test Automation Framework 
 Test automation framework infrastructure for running automated tests in Volvo Website
 
 ## TODO
@@ -7,7 +7,7 @@ Test automation framework infrastructure for running automated tests in Volvo We
 3. Reporting of the results
 4. Documentation 
 
-# Directory Structure
+## Directory Structure
   Test - contains test-related resources
   spec - contains test case automated scripts used in Test Execution separated according to test case number and suite with the format (TCXXXX Test Case Description)
   [pageobjects] - contains specific page operation selectors and keywords that are used to interact with target application
