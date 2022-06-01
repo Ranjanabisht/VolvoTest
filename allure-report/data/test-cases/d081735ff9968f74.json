@@ -1,0 +1,62 @@
+{
+  "uid" : "d081735ff9968f74",
+  "name" : "6.5 should show and verify the learn more about safety text field",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.6.5 should show and verify the learn more about safety text field",
+  "historyId" : "bc0169f613463815dd1388c3bee82ee7",
+  "time" : {
+    "start" : 1653933976841,
+    "stop" : 1653933987977,
+    "duration" : 11136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "aMillionMorePage.navigateToCarSafetyPage is not a function",
+  "statusTrace" : "TypeError: aMillionMorePage.navigateToCarSafetyPage is not a function\n                    at Context.<anonymous> (C:\\Users\\easibnr\\VolvoTest\\test\\specs\\elementPage.js:71:26)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "6.5 should show and verify the learn more about safety text field"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d081735ff9968f74.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

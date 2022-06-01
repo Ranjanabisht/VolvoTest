@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653933864976' stop='1653933866803'>
+    <name>TC0006 - Main Page Element Verification - Icon Callouts</name>
+    <title>TC0006 - Main Page Element Verification - Icon Callouts</title>
+    <test-cases>
+        <test-case start='1653933864977' status='broken' stop='1653933866803'>
+            <name>"before each" hook for TC0006 - Main Page Element Verification - Icon Callouts</name>
+            <title>"before each" hook for TC0006 - Main Page Element Verification - Icon Callouts</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Cannot read properties of undefined (reading 'scrollIntoView')</message>
+                <stack-trace>TypeError: Cannot read properties of undefined (reading 'scrollIntoView')
+                    at Context.&lt;anonymous> (C:\Users\easibnr\VolvoTest\test\specs\elementPage.js:32:56)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

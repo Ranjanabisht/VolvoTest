@@ -1,0 +1,60 @@
+{
+  "uid" : "8e34ba856848b4bf",
+  "name" : "6.4 should show and verify the care key icon callouts icon visibility, title value, and text value",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.6.4 should show and verify the care key icon callouts icon visibility, title value, and text value",
+  "historyId" : "6d92b8d31c63edb26c57852aeaaa9a99",
+  "time" : {
+    "start" : 1653933965467,
+    "stop" : 1653933976840,
+    "duration" : 11373
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "6.4 should show and verify the care key icon callouts icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e34ba856848b4bf.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

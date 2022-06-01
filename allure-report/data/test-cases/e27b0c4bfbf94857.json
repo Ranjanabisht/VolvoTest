@@ -1,0 +1,62 @@
+{
+  "uid" : "e27b0c4bfbf94857",
+  "name" : "should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+  "historyId" : "7b7a9b6a41604181c1dc696387c74208",
+  "time" : {
+    "start" : 1653997143320,
+    "stop" : 1653997154616,
+    "duration" : 11296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the highway pilot icon callouts icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e27b0c4bfbf94857.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "e3183f363afaea8e",
+  "name" : "6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+  "historyId" : "bb2816aec7903a38f0c1a5232aea73e3",
+  "time" : {
+    "start" : 1653934382509,
+    "stop" : 1653934393700,
+    "duration" : 11191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "957341e05dd79ef9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934161212,
+        "stop" : 1653934171916,
+        "duration" : 10704
+      }
+    }, {
+      "uid" : "124991eb80498a14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653933943229,
+        "stop" : 1653933954363,
+        "duration" : 11134
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3183f363afaea8e.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

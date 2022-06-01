@@ -1,0 +1,78 @@
+{
+  "uid" : "8a336e0db27502c0",
+  "name" : "3.1 should click the top navigation bar",
+  "fullName" : "TC0001 - Main Page Loading and Cookie Container Verification.3.1 should click the top navigation bar",
+  "historyId" : "9206a75c1080a9b4afc93ac21166203b",
+  "time" : {
+    "start" : 1653912167236,
+    "stop" : 1653912168326,
+    "duration" : 1090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "3.1 should click the top navigation bar"
+  }, {
+    "name" : "package",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e5092fc03d9a4b70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653912062513,
+        "stop" : 1653912063275,
+        "duration" : 762
+      }
+    }, {
+      "uid" : "f88cbe8e72725125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653908765195,
+        "stop" : 1653908766274,
+        "duration" : 1079
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a336e0db27502c0.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

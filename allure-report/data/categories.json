@@ -1,0 +1,131 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Cannot read properties of undefined (reading 'scrollIntoView')",
+      "children" : [ {
+        "name" : "\"before each\" hook for TC0006 - Main Page Element Verification - Icon Callouts",
+        "uid" : "57a64a0f1b33da8e",
+        "parentUid" : "d90c7617ddd2713c12cf7ef7d55e52a8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653933864977,
+          "stop" : 1653933866803,
+          "duration" : 1826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      }, {
+        "name" : "\"before each\" hook for TC0008 - Main Page Element Verification - Decades Of Innovation Section",
+        "uid" : "efaceb7688892d75",
+        "parentUid" : "d90c7617ddd2713c12cf7ef7d55e52a8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654004032754,
+          "stop" : 1654004034255,
+          "duration" : 1501
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      } ],
+      "uid" : "d90c7617ddd2713c12cf7ef7d55e52a8"
+    }, {
+      "name" : "aMillionMorePage is not defined",
+      "children" : [ {
+        "name" : "should click the Our Car option",
+        "uid" : "9d792b01c61279de",
+        "parentUid" : "b7548e9c1f5e8020982764646a42100b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653997148710,
+          "stop" : 1653997148712,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      }, {
+        "name" : "should click the Menu option",
+        "uid" : "3d7bf0d165f1c5bc",
+        "parentUid" : "b7548e9c1f5e8020982764646a42100b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653997148713,
+          "stop" : 1653997148714,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      } ],
+      "uid" : "b7548e9c1f5e8020982764646a42100b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expect $(`//button[@id=\"nav:topNavCarMenu\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"",
+      "children" : [ {
+        "name" : "should click the Our Car option",
+        "uid" : "39431e4c2443fdf",
+        "parentUid" : "2c97de9d9b66aaebfd5cc50ca9f56da1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654024422376,
+          "stop" : 1654024433931,
+          "duration" : 11555
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      } ],
+      "uid" : "2c97de9d9b66aaebfd5cc50ca9f56da1"
+    }, {
+      "name" : "Expect $(`//button[@id=\"sitenav-sidenav-toggle\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"",
+      "children" : [ {
+        "name" : "should click the Menu option",
+        "uid" : "68365661442e1981",
+        "parentUid" : "b8836e40b86e6cf3694e70c93a789a37",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654024433935,
+          "stop" : 1654024444622,
+          "duration" : 10687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome-101.0.4951.67" ]
+      } ],
+      "uid" : "b8836e40b86e6cf3694e70c93a789a37"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

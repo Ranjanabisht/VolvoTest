@@ -1,0 +1,814 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TC0001 - Main Page Loading and Cookie Container Verification",
+    "children" : [ {
+      "name" : "3.1 should show and verify the model intro header and text",
+      "uid" : "6d7d8f7c54e31d89",
+      "parentUid" : "8be92ff902b68efd3154c1676cc7514f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653912166332,
+        "stop" : 1653912167236,
+        "duration" : 904
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "3.1 should click the top navigation bar",
+      "uid" : "8a336e0db27502c0",
+      "parentUid" : "8be92ff902b68efd3154c1676cc7514f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653912167236,
+        "stop" : 1653912168326,
+        "duration" : 1090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "It should verify url and title",
+      "uid" : "79fe2a19fbba82d4",
+      "parentUid" : "8be92ff902b68efd3154c1676cc7514f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997423951,
+        "stop" : 1653997425295,
+        "duration" : 1344
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show the cookies container and accept all cookies",
+      "uid" : "2324a37f2bd746ef",
+      "parentUid" : "8be92ff902b68efd3154c1676cc7514f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997425295,
+        "stop" : 1653997426177,
+        "duration" : 882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the model intro header and text",
+      "uid" : "404282b8231586ef",
+      "parentUid" : "8be92ff902b68efd3154c1676cc7514f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997426177,
+        "stop" : 1653997428134,
+        "duration" : 1957
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify text statement below video",
+      "uid" : "6a04648462e4bc02",
+      "parentUid" : "8be92ff902b68efd3154c1676cc7514f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997428135,
+        "stop" : 1653997428939,
+        "duration" : 804
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "8be92ff902b68efd3154c1676cc7514f"
+  }, {
+    "name" : "TC0006 - Main Page Element Verification - Icon Callouts",
+    "children" : [ {
+      "name" : "\"before each\" hook for TC0006 - Main Page Element Verification - Icon Callouts",
+      "uid" : "57a64a0f1b33da8e",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653933864977,
+        "stop" : 1653933866803,
+        "duration" : 1826
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value",
+      "uid" : "bccc34e12e9f36ea",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934379403,
+        "stop" : 1653934382509,
+        "duration" : 3106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+      "uid" : "e3183f363afaea8e",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934382509,
+        "stop" : 1653934393700,
+        "duration" : 11191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "6.3 should show and verify the driver monitoring cameras icon callouts icon visibility, title value, and text value",
+      "uid" : "b4e3ea9c45ea19e3",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934393700,
+        "stop" : 1653934404896,
+        "duration" : 11196
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "6.4 should show and verify the care key icon callouts icon visibility, title value, and text value",
+      "uid" : "971249bb650ef959",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934404896,
+        "stop" : 1653934416215,
+        "duration" : 11319
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "6.5 should show and verify the learn more about safety text field",
+      "uid" : "889a2ea1545ae7dc",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934416216,
+        "stop" : 1653934428321,
+        "duration" : 12105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "6.6 should show and verify the icon callouts footer",
+      "uid" : "7d4fed14b86dd5a8",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934428322,
+        "stop" : 1653934439656,
+        "duration" : 11334
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the speed cap icon callouts icon visibility, title value, and text value",
+      "uid" : "73b84f6d16d03301",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997139922,
+        "stop" : 1653997143319,
+        "duration" : 3397
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+      "uid" : "e27b0c4bfbf94857",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997143320,
+        "stop" : 1653997154616,
+        "duration" : 11296
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the driver monitoring cameras icon callouts icon visibility, title value, and text value",
+      "uid" : "a6db8b9df2763bd7",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997154617,
+        "stop" : 1653997165627,
+        "duration" : 11010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the care key icon callouts icon visibility, title value, and text value",
+      "uid" : "254f0ad7f4f7dd6a",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997165627,
+        "stop" : 1653997177374,
+        "duration" : 11747
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the learn more about safety text field",
+      "uid" : "52aa65ff520c81",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997177374,
+        "stop" : 1653997189017,
+        "duration" : 11643
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the icon callouts footer",
+      "uid" : "4e9f90764c6bc838",
+      "parentUid" : "c7221ce92ad529f65a37dec17da7fc11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997189017,
+        "stop" : 1653997200594,
+        "duration" : 11577
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "c7221ce92ad529f65a37dec17da7fc11"
+  }, {
+    "name" : "Top Navigation should work",
+    "children" : [ {
+      "name" : "should click the Our Car option",
+      "uid" : "9d792b01c61279de",
+      "parentUid" : "278fcdedf106975e1dbd92b2507f7607",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653997148710,
+        "stop" : 1653997148712,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should click the Menu option",
+      "uid" : "3d7bf0d165f1c5bc",
+      "parentUid" : "278fcdedf106975e1dbd92b2507f7607",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653997148713,
+        "stop" : 1653997148714,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "278fcdedf106975e1dbd92b2507f7607"
+  }, {
+    "name" : "TC0004 - Main Page Element Verification - Main Video",
+    "children" : [ {
+      "name" : "4.1 should show and verify the main video if autoplayed and points to correct playback source",
+      "uid" : "14eb70cc03c852e5",
+      "parentUid" : "e1f45a2fa1bf77dcc35fb28de5e8a225",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997151855,
+        "stop" : 1653997160231,
+        "duration" : 8376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "e1f45a2fa1bf77dcc35fb28de5e8a225"
+  }, {
+    "name" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section",
+    "children" : [ {
+      "name" : "\"before each\" hook for TC0008 - Main Page Element Verification - Decades Of Innovation Section",
+      "uid" : "efaceb7688892d75",
+      "parentUid" : "82f9390a3e53940d24985083a18ea0d4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1654004032754,
+        "stop" : 1654004034255,
+        "duration" : 1501
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section title and description",
+      "uid" : "1cb3a7620949864b",
+      "parentUid" : "82f9390a3e53940d24985083a18ea0d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654004152763,
+        "stop" : 1654004154745,
+        "duration" : 1982
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section learn more button",
+      "uid" : "a1d5296c3dd5bb9d",
+      "parentUid" : "82f9390a3e53940d24985083a18ea0d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654004154745,
+        "stop" : 1654004166717,
+        "duration" : 11972
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section image",
+      "uid" : "75fc8df6e462f825",
+      "parentUid" : "82f9390a3e53940d24985083a18ea0d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654004166717,
+        "stop" : 1654004177648,
+        "duration" : 10931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "82f9390a3e53940d24985083a18ea0d4"
+  }, {
+    "name" : "TC0005 - Decades Of Innovation Section Verfication",
+    "children" : [ {
+      "name" : "should show and verify the decades of innovation section title and description",
+      "uid" : "1bf9b9787a688068",
+      "parentUid" : "346fb0060a1bb1efa1d5622be86f2c0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023377912,
+        "stop" : 1654023385806,
+        "duration" : 7894
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section learn more button",
+      "uid" : "9b2b037d337a2399",
+      "parentUid" : "346fb0060a1bb1efa1d5622be86f2c0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023385806,
+        "stop" : 1654023400546,
+        "duration" : 14740
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section image",
+      "uid" : "efa14a12a7fd4706",
+      "parentUid" : "346fb0060a1bb1efa1d5622be86f2c0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023400547,
+        "stop" : 1654023411869,
+        "duration" : 11322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "346fb0060a1bb1efa1d5622be86f2c0b"
+  }, {
+    "name" : "TC0002 - Top Navigation Bar verfiy and click",
+    "children" : [ {
+      "name" : "should click the Our Car option",
+      "uid" : "39431e4c2443fdf",
+      "parentUid" : "de719d88cd3e15ce3e57e4c543d807f3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1654024422376,
+        "stop" : 1654024433931,
+        "duration" : 11555
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should click the Menu option",
+      "uid" : "68365661442e1981",
+      "parentUid" : "de719d88cd3e15ce3e57e4c543d807f3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1654024433935,
+        "stop" : 1654024444622,
+        "duration" : 10687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "de719d88cd3e15ce3e57e4c543d807f3"
+  }, {
+    "name" : "TC0004 - Car Safety Options Verification",
+    "children" : [ {
+      "name" : "should show and verify the speed cap icon visibility, title value, and text value",
+      "uid" : "8083e01eb54d744e",
+      "parentUid" : "deabdecd01423fb9d0c7e76b5e093980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024694696,
+        "stop" : 1654024701232,
+        "duration" : 6536
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the highway pilot icon visibility, title value, and text value",
+      "uid" : "e7c44f41feff671a",
+      "parentUid" : "deabdecd01423fb9d0c7e76b5e093980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024701233,
+        "stop" : 1654024713594,
+        "duration" : 12361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the driver monitoring cameras icon visibility, title value, and text value",
+      "uid" : "fb915a32cb7b56dc",
+      "parentUid" : "deabdecd01423fb9d0c7e76b5e093980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024713595,
+        "stop" : 1654024724815,
+        "duration" : 11220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the care key icon visibility, title value, and text value",
+      "uid" : "fd3dd1970273b804",
+      "parentUid" : "deabdecd01423fb9d0c7e76b5e093980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024724815,
+        "stop" : 1654024735727,
+        "duration" : 10912
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the learn more about safety text field",
+      "uid" : "b3143d6f5b1813c1",
+      "parentUid" : "deabdecd01423fb9d0c7e76b5e093980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024735728,
+        "stop" : 1654024747538,
+        "duration" : 11810
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the icon callouts footer",
+      "uid" : "7f47e25fcfd51289",
+      "parentUid" : "deabdecd01423fb9d0c7e76b5e093980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024747539,
+        "stop" : 1654024758532,
+        "duration" : 10993
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "deabdecd01423fb9d0c7e76b5e093980"
+  }, {
+    "name" : "TC0004 - Decades Of Innovation Section Verfication",
+    "children" : [ {
+      "name" : "should show and verify the decades of innovation section title and description",
+      "uid" : "3ae8f021f62b5d60",
+      "parentUid" : "0f8dd0a348df987ad6bd196d6cafe00d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024694785,
+        "stop" : 1654024701449,
+        "duration" : 6664
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section learn more button",
+      "uid" : "c888d999884b63a5",
+      "parentUid" : "0f8dd0a348df987ad6bd196d6cafe00d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024701450,
+        "stop" : 1654024715101,
+        "duration" : 13651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the decades of innovation section image",
+      "uid" : "a6026c5f54d5dec4",
+      "parentUid" : "0f8dd0a348df987ad6bd196d6cafe00d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024715102,
+        "stop" : 1654024726081,
+        "duration" : 10979
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "0f8dd0a348df987ad6bd196d6cafe00d"
+  }, {
+    "name" : "TC0003 - Main Video Verification",
+    "children" : [ {
+      "name" : "4.1 should show and verify the main video if autoplayed and points to correct playback source",
+      "uid" : "69f40d86b2b74e75",
+      "parentUid" : "634e23bbcbf5a195c3aa228eec06b8f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024695099,
+        "stop" : 1654024700176,
+        "duration" : 5077
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "634e23bbcbf5a195c3aa228eec06b8f7"
+  }, {
+    "name" : "TC0001 - Home Page Loading and Cookie Verification",
+    "children" : [ {
+      "name" : "It should verify url and title",
+      "uid" : "77506ed02aa5a22a",
+      "parentUid" : "2a10d2ac13d82ee5ec21358d76f8f247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024695267,
+        "stop" : 1654024698386,
+        "duration" : 3119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show the cookies container and accept all cookies",
+      "uid" : "f21178b097a72abe",
+      "parentUid" : "2a10d2ac13d82ee5ec21358d76f8f247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024698386,
+        "stop" : 1654024701177,
+        "duration" : 2791
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify the model intro header and text",
+      "uid" : "f873605c9b5ff9f1",
+      "parentUid" : "2a10d2ac13d82ee5ec21358d76f8f247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024701178,
+        "stop" : 1654024703211,
+        "duration" : 2033
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "should show and verify text statement below video",
+      "uid" : "3aa866e6a6c2c183",
+      "parentUid" : "2a10d2ac13d82ee5ec21358d76f8f247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654024703213,
+        "stop" : 1654024704349,
+        "duration" : 1136
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    } ],
+    "uid" : "2a10d2ac13d82ee5ec21358d76f8f247"
+  } ]
+}

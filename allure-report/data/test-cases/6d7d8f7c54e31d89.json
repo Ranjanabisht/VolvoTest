@@ -1,0 +1,78 @@
+{
+  "uid" : "6d7d8f7c54e31d89",
+  "name" : "3.1 should show and verify the model intro header and text",
+  "fullName" : "TC0001 - Main Page Loading and Cookie Container Verification.3.1 should show and verify the model intro header and text",
+  "historyId" : "6a402121399538405b626e9674e1f0a",
+  "time" : {
+    "start" : 1653912166332,
+    "stop" : 1653912167236,
+    "duration" : 904
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "3.1 should show and verify the model intro header and text"
+  }, {
+    "name" : "package",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f01e5c590c1d9718",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653912061496,
+        "stop" : 1653912062513,
+        "duration" : 1017
+      }
+    }, {
+      "uid" : "e8d173420fcdc18c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653908764083,
+        "stop" : 1653908765195,
+        "duration" : 1112
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d7d8f7c54e31d89.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

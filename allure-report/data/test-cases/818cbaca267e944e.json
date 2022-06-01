@@ -1,0 +1,60 @@
+{
+  "uid" : "818cbaca267e944e",
+  "name" : "should show and verify the model intro header and text",
+  "fullName" : "TC0001 - Home Page Loading and Cookie Verification.should show and verify the model intro header and text",
+  "historyId" : "44bccc0ace894ddb5e019d68256046c4",
+  "time" : {
+    "start" : 1654023384257,
+    "stop" : 1654023387248,
+    "duration" : 2991
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "TC0001 - Home Page Loading and Cookie Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0001 - Home Page Loading and Cookie Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the model intro header and text"
+  }, {
+    "name" : "package",
+    "value" : "TC0001 - Home Page Loading and Cookie Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "818cbaca267e944e.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

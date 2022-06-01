@@ -1,0 +1,451 @@
+[ {
+  "uid" : "73b84f6d16d03301",
+  "name" : "should show and verify the speed cap icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653997139922,
+    "stop" : 1653997143319,
+    "duration" : 3397
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d7d8f7c54e31d89",
+  "name" : "3.1 should show and verify the model intro header and text",
+  "time" : {
+    "start" : 1653912166332,
+    "stop" : 1653912167236,
+    "duration" : 904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd3dd1970273b804",
+  "name" : "should show and verify the care key icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1654024724815,
+    "stop" : 1654024735727,
+    "duration" : 10912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3183f363afaea8e",
+  "name" : "6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653934382509,
+    "stop" : 1653934393700,
+    "duration" : 11191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d4fed14b86dd5a8",
+  "name" : "6.6 should show and verify the icon callouts footer",
+  "time" : {
+    "start" : 1653934428322,
+    "stop" : 1653934439656,
+    "duration" : 11334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "254f0ad7f4f7dd6a",
+  "name" : "should show and verify the care key icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653997165627,
+    "stop" : 1653997177374,
+    "duration" : 11747
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68365661442e1981",
+  "name" : "should click the Menu option",
+  "time" : {
+    "start" : 1654024433935,
+    "stop" : 1654024444622,
+    "duration" : 10687
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "889a2ea1545ae7dc",
+  "name" : "6.5 should show and verify the learn more about safety text field",
+  "time" : {
+    "start" : 1653934416216,
+    "stop" : 1653934428321,
+    "duration" : 12105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6db8b9df2763bd7",
+  "name" : "should show and verify the driver monitoring cameras icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653997154617,
+    "stop" : 1653997165627,
+    "duration" : 11010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a336e0db27502c0",
+  "name" : "3.1 should click the top navigation bar",
+  "time" : {
+    "start" : 1653912167236,
+    "stop" : 1653912168326,
+    "duration" : 1090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14eb70cc03c852e5",
+  "name" : "4.1 should show and verify the main video if autoplayed and points to correct playback source",
+  "time" : {
+    "start" : 1653997151855,
+    "stop" : 1653997160231,
+    "duration" : 8376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f21178b097a72abe",
+  "name" : "should show the cookies container and accept all cookies",
+  "time" : {
+    "start" : 1654024698386,
+    "stop" : 1654024701177,
+    "duration" : 2791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb915a32cb7b56dc",
+  "name" : "should show and verify the driver monitoring cameras icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1654024713595,
+    "stop" : 1654024724815,
+    "duration" : 11220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e9f90764c6bc838",
+  "name" : "should show and verify the icon callouts footer",
+  "time" : {
+    "start" : 1653997189017,
+    "stop" : 1653997200594,
+    "duration" : 11577
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c888d999884b63a5",
+  "name" : "should show and verify the decades of innovation section learn more button",
+  "time" : {
+    "start" : 1654024701450,
+    "stop" : 1654024715101,
+    "duration" : 13651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4e3ea9c45ea19e3",
+  "name" : "6.3 should show and verify the driver monitoring cameras icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653934393700,
+    "stop" : 1653934404896,
+    "duration" : 11196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7c44f41feff671a",
+  "name" : "should show and verify the highway pilot icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1654024701233,
+    "stop" : 1654024713594,
+    "duration" : 12361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52aa65ff520c81",
+  "name" : "should show and verify the learn more about safety text field",
+  "time" : {
+    "start" : 1653997177374,
+    "stop" : 1653997189017,
+    "duration" : 11643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efa14a12a7fd4706",
+  "name" : "should show and verify the decades of innovation section image",
+  "time" : {
+    "start" : 1654023400547,
+    "stop" : 1654023411869,
+    "duration" : 11322
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efaceb7688892d75",
+  "name" : "\"before each\" hook for TC0008 - Main Page Element Verification - Decades Of Innovation Section",
+  "time" : {
+    "start" : 1654004032754,
+    "stop" : 1654004034255,
+    "duration" : 1501
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3aa866e6a6c2c183",
+  "name" : "should show and verify text statement below video",
+  "time" : {
+    "start" : 1654024703213,
+    "stop" : 1654024704349,
+    "duration" : 1136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bccc34e12e9f36ea",
+  "name" : "6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653934379403,
+    "stop" : 1653934382509,
+    "duration" : 3106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1d5296c3dd5bb9d",
+  "name" : "should show and verify the decades of innovation section learn more button",
+  "time" : {
+    "start" : 1654004154745,
+    "stop" : 1654004166717,
+    "duration" : 11972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3143d6f5b1813c1",
+  "name" : "should show and verify the learn more about safety text field",
+  "time" : {
+    "start" : 1654024735728,
+    "stop" : 1654024747538,
+    "duration" : 11810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69f40d86b2b74e75",
+  "name" : "4.1 should show and verify the main video if autoplayed and points to correct playback source",
+  "time" : {
+    "start" : 1654024695099,
+    "stop" : 1654024700176,
+    "duration" : 5077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "971249bb650ef959",
+  "name" : "6.4 should show and verify the care key icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653934404896,
+    "stop" : 1653934416215,
+    "duration" : 11319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d792b01c61279de",
+  "name" : "should click the Our Car option",
+  "time" : {
+    "start" : 1653997148710,
+    "stop" : 1653997148712,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1cb3a7620949864b",
+  "name" : "should show and verify the decades of innovation section title and description",
+  "time" : {
+    "start" : 1654004152763,
+    "stop" : 1654004154745,
+    "duration" : 1982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57a64a0f1b33da8e",
+  "name" : "\"before each\" hook for TC0006 - Main Page Element Verification - Icon Callouts",
+  "time" : {
+    "start" : 1653933864977,
+    "stop" : 1653933866803,
+    "duration" : 1826
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "39431e4c2443fdf",
+  "name" : "should click the Our Car option",
+  "time" : {
+    "start" : 1654024422376,
+    "stop" : 1654024433931,
+    "duration" : 11555
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a04648462e4bc02",
+  "name" : "should show and verify text statement below video",
+  "time" : {
+    "start" : 1653997428135,
+    "stop" : 1653997428939,
+    "duration" : 804
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79fe2a19fbba82d4",
+  "name" : "It should verify url and title",
+  "time" : {
+    "start" : 1653997423951,
+    "stop" : 1653997425295,
+    "duration" : 1344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f873605c9b5ff9f1",
+  "name" : "should show and verify the model intro header and text",
+  "time" : {
+    "start" : 1654024701178,
+    "stop" : 1654024703211,
+    "duration" : 2033
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2324a37f2bd746ef",
+  "name" : "should show the cookies container and accept all cookies",
+  "time" : {
+    "start" : 1653997425295,
+    "stop" : 1653997426177,
+    "duration" : 882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "404282b8231586ef",
+  "name" : "should show and verify the model intro header and text",
+  "time" : {
+    "start" : 1653997426177,
+    "stop" : 1653997428134,
+    "duration" : 1957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e27b0c4bfbf94857",
+  "name" : "should show and verify the highway pilot icon callouts icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1653997143320,
+    "stop" : 1653997154616,
+    "duration" : 11296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d7bf0d165f1c5bc",
+  "name" : "should click the Menu option",
+  "time" : {
+    "start" : 1653997148713,
+    "stop" : 1653997148714,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a6026c5f54d5dec4",
+  "name" : "should show and verify the decades of innovation section image",
+  "time" : {
+    "start" : 1654024715102,
+    "stop" : 1654024726081,
+    "duration" : 10979
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f47e25fcfd51289",
+  "name" : "should show and verify the icon callouts footer",
+  "time" : {
+    "start" : 1654024747539,
+    "stop" : 1654024758532,
+    "duration" : 10993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77506ed02aa5a22a",
+  "name" : "It should verify url and title",
+  "time" : {
+    "start" : 1654024695267,
+    "stop" : 1654024698386,
+    "duration" : 3119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ae8f021f62b5d60",
+  "name" : "should show and verify the decades of innovation section title and description",
+  "time" : {
+    "start" : 1654024694785,
+    "stop" : 1654024701449,
+    "duration" : 6664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75fc8df6e462f825",
+  "name" : "should show and verify the decades of innovation section image",
+  "time" : {
+    "start" : 1654004166717,
+    "stop" : 1654004177648,
+    "duration" : 10931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b2b037d337a2399",
+  "name" : "should show and verify the decades of innovation section learn more button",
+  "time" : {
+    "start" : 1654023385806,
+    "stop" : 1654023400546,
+    "duration" : 14740
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1bf9b9787a688068",
+  "name" : "should show and verify the decades of innovation section title and description",
+  "time" : {
+    "start" : 1654023377912,
+    "stop" : 1654023385806,
+    "duration" : 7894
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8083e01eb54d744e",
+  "name" : "should show and verify the speed cap icon visibility, title value, and text value",
+  "time" : {
+    "start" : 1654024694696,
+    "stop" : 1654024701232,
+    "duration" : 6536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

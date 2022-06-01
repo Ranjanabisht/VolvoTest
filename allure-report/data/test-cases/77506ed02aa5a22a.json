@@ -1,0 +1,70 @@
+{
+  "uid" : "77506ed02aa5a22a",
+  "name" : "It should verify url and title",
+  "fullName" : "TC0001 - Home Page Loading and Cookie Verification.It should verify url and title",
+  "historyId" : "f12fddba4083db74d38fc151b8241b5b",
+  "time" : {
+    "start" : 1654024695267,
+    "stop" : 1654024698386,
+    "duration" : 3119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "TC0001 - Home Page Loading and Cookie Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0001 - Home Page Loading and Cookie Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "It should verify url and title"
+  }, {
+    "name" : "package",
+    "value" : "TC0001 - Home Page Loading and Cookie Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "48fa1d9da1eda693",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023377073,
+        "stop" : 1654023380960,
+        "duration" : 3887
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77506ed02aa5a22a.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

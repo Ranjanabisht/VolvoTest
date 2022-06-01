@@ -1,0 +1,62 @@
+{
+  "uid" : "9b2b037d337a2399",
+  "name" : "should show and verify the decades of innovation section learn more button",
+  "fullName" : "TC0005 - Decades Of Innovation Section Verfication.should show and verify the decades of innovation section learn more button",
+  "historyId" : "a2b10903c7c71e8e6c5f365059287ede",
+  "time" : {
+    "start" : 1654023385806,
+    "stop" : 1654023400546,
+    "duration" : 14740
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "TC0005 - Decades Of Innovation Section Verfication"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0005 - Decades Of Innovation Section Verfication"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the decades of innovation section learn more button"
+  }, {
+    "name" : "package",
+    "value" : "TC0005 - Decades Of Innovation Section Verfication"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b2b037d337a2399.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "c403e09c847db905",
+  "name" : "should click the Menu option",
+  "fullName" : "TC0002 - Top Navigation Bar verfiy and click.should click the Menu option",
+  "historyId" : "b2bf583a43ba2129fd5febcafb016752",
+  "time" : {
+    "start" : 1654023754824,
+    "stop" : 1654023765497,
+    "duration" : 10673
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`//*[@id=\"sitenav-sidenav-toggle\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"",
+  "statusTrace" : "Error: Expect $(`//*[@id=\"sitenav-sidenav-toggle\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"\n                    at Context.<anonymous> (C:\\Users\\easibnr\\VolvoTest\\test\\specs\\topNavigation.js:18:56)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0002 - Top Navigation Bar verfiy and click"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0002 - Top Navigation Bar verfiy and click"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Menu option"
+  }, {
+    "name" : "package",
+    "value" : "TC0002 - Top Navigation Bar verfiy and click"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c403e09c847db905.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

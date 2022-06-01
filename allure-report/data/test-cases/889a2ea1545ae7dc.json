@@ -1,0 +1,80 @@
+{
+  "uid" : "889a2ea1545ae7dc",
+  "name" : "6.5 should show and verify the learn more about safety text field",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.6.5 should show and verify the learn more about safety text field",
+  "historyId" : "bc0169f613463815dd1388c3bee82ee7",
+  "time" : {
+    "start" : 1653934416216,
+    "stop" : 1653934428321,
+    "duration" : 12105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "6.5 should show and verify the learn more about safety text field"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e38a7c8515d9340f",
+      "status" : "broken",
+      "statusDetails" : "CarSafetyPageTitle is not defined",
+      "time" : {
+        "start" : 1653934194658,
+        "stop" : 1653934206881,
+        "duration" : 12223
+      }
+    }, {
+      "uid" : "d081735ff9968f74",
+      "status" : "broken",
+      "statusDetails" : "aMillionMorePage.navigateToCarSafetyPage is not a function",
+      "time" : {
+        "start" : 1653933976841,
+        "stop" : 1653933987977,
+        "duration" : 11136
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "889a2ea1545ae7dc.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

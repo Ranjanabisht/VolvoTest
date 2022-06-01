@@ -1,0 +1,77 @@
+{
+  "uid" : "57a64a0f1b33da8e",
+  "name" : "\"before each\" hook for TC0006 - Main Page Element Verification - Icon Callouts",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.\"before each\" hook for TC0006 - Main Page Element Verification - Icon Callouts",
+  "historyId" : "5603221c554bd545287d7361dde179a7",
+  "time" : {
+    "start" : 1653933864977,
+    "stop" : 1653933866803,
+    "duration" : 1826
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read properties of undefined (reading 'scrollIntoView')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'scrollIntoView')\n                    at Context.<anonymous> (C:\\Users\\easibnr\\VolvoTest\\test\\specs\\elementPage.js:32:56)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before each\" hook for TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6decbd11f764a8e5",
+      "status" : "broken",
+      "statusDetails" : "Cannot read properties of undefined (reading 'scrollIntoView')",
+      "time" : {
+        "start" : 1653933080966,
+        "stop" : 1653933082609,
+        "duration" : 1643
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "57a64a0f1b33da8e.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

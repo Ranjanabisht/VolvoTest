@@ -1,0 +1,70 @@
+{
+  "uid" : "b3143d6f5b1813c1",
+  "name" : "should show and verify the learn more about safety text field",
+  "fullName" : "TC0004 - Car Safety Options Verification.should show and verify the learn more about safety text field",
+  "historyId" : "dc469be1736d0ec0281403a91eb7c8b9",
+  "time" : {
+    "start" : 1654024735728,
+    "stop" : 1654024747538,
+    "duration" : 11810
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the learn more about safety text field"
+  }, {
+    "name" : "package",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e90f989aac448f47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023421572,
+        "stop" : 1654023433369,
+        "duration" : 11797
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3143d6f5b1813c1.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

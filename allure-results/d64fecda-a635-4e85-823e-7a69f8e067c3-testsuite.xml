@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653934158451' stop='1653934218274'>
+    <name>TC0006 - Main Page Element Verification - Icon Callouts</name>
+    <title>TC0006 - Main Page Element Verification - Icon Callouts</title>
+    <test-cases>
+        <test-case start='1653934158451' status='passed' stop='1653934161212'>
+            <name>6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value</name>
+            <title>6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653934161212' status='passed' stop='1653934171916'>
+            <name>6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value</name>
+            <title>6.2 should show and verify the highway pilot icon callouts icon visibility, title value, and text value</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653934171916' status='passed' stop='1653934183414'>
+            <name>6.3 should show and verify the driver monitoring cameras icon callouts icon visibility, title value, and text value</name>
+            <title>6.3 should show and verify the driver monitoring cameras icon callouts icon visibility, title value, and text value</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653934183415' status='passed' stop='1653934194657'>
+            <name>6.4 should show and verify the care key icon callouts icon visibility, title value, and text value</name>
+            <title>6.4 should show and verify the care key icon callouts icon visibility, title value, and text value</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653934194658' status='broken' stop='1653934206881'>
+            <name>6.5 should show and verify the learn more about safety text field</name>
+            <title>6.5 should show and verify the learn more about safety text field</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>CarSafetyPageTitle is not defined</message>
+                <stack-trace>ReferenceError: CarSafetyPageTitle is not defined
+                    at Context.&lt;anonymous> (C:\Users\easibnr\VolvoTest\test\specs\elementPage.js:73:37)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1653934206881' status='passed' stop='1653934218273'>
+            <name>6.6 should show and verify the icon callouts footer</name>
+            <title>6.6 should show and verify the icon callouts footer</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

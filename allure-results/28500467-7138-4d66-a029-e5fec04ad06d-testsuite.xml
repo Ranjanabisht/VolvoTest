@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1654024695098' stop='1654024700177'>
+    <name>TC0003 - Main Video Verification</name>
+    <title>TC0003 - Main Video Verification</title>
+    <test-cases>
+        <test-case start='1654024695099' status='passed' stop='1654024700176'>
+            <name>4.1 should show and verify the main video if autoplayed and points to correct playback source</name>
+            <title>4.1 should show and verify the main video if autoplayed and points to correct playback source</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

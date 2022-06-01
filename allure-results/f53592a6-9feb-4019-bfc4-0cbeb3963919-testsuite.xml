@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1654069878947' stop='1654069895322'>
+    <name>TC0003 - Main Video Verification</name>
+    <title>TC0003 - Main Video Verification</title>
+    <test-cases>
+        <test-case start='1654069878950' status='failed' stop='1654069895321'>
+            <name>4.1 should show and verify the main video if autoplayed and points to correct playback source</name>
+            <title>4.1 should show and verify the main video if autoplayed and points to correct playback source</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`//*[@id="Video-1"]/section/div/button/div/video`) to be displayed
+                
+                Expected: "displayed"
+                Received: "not displayed"</message>
+                <stack-trace>Error: Expect $(`//*[@id="Video-1"]/section/div/button/div/video`) to be displayed
+                
+                Expected: "displayed"
+                Received: "not displayed"
+                    at Context.&lt;anonymous> (C:\Users\easibnr\VolvoTest\test\specs\video.js:15:48)
+                    at Context.executeAsync (C:\Users\easibnr\VolvoTest\node_modules\@wdio\utils\build\shim.js:333:27)
+                    at Context.testFrameworkFnWrapper (C:\Users\easibnr\VolvoTest\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:51:32)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

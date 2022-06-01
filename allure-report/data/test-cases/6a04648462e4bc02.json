@@ -1,0 +1,111 @@
+{
+  "uid" : "6a04648462e4bc02",
+  "name" : "should show and verify text statement below video",
+  "fullName" : "TC0001 - Main Page Loading and Cookie Container Verification.should show and verify text statement below video",
+  "historyId" : "5c607601807bb22da790e404a47f460f",
+  "time" : {
+    "start" : 1653997428135,
+    "stop" : 1653997428939,
+    "duration" : 804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify text statement below video"
+  }, {
+    "name" : "package",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d337ff652b2960a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997144863,
+        "stop" : 1653997145654,
+        "duration" : 791
+      }
+    }, {
+      "uid" : "e32a02d08c2f8dbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653997038404,
+        "stop" : 1653997039517,
+        "duration" : 1113
+      }
+    }, {
+      "uid" : "3eac506e445f8908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653992612135,
+        "stop" : 1653992612941,
+        "duration" : 806
+      }
+    }, {
+      "uid" : "261e3ce0f4509a83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653988691463,
+        "stop" : 1653988692793,
+        "duration" : 1330
+      }
+    }, {
+      "uid" : "18522631f33ecc5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653941483714,
+        "stop" : 1653941484427,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "e8151e09262fd770",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`//*[@id=\"TextStatement-1\"]//span[2]`) to have text\n                \n                Expected: \"A million more. With new and existing safety features, we are determined to save a million more lives.\"\n                Received: \"With new and existing safety features, we are determined to save a million more lives.\"",
+      "time" : {
+        "start" : 1653941290714,
+        "stop" : 1653941301435,
+        "duration" : 10721
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a04648462e4bc02.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

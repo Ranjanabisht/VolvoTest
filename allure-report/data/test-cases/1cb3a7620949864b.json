@@ -1,0 +1,62 @@
+{
+  "uid" : "1cb3a7620949864b",
+  "name" : "should show and verify the decades of innovation section title and description",
+  "fullName" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section.should show and verify the decades of innovation section title and description",
+  "historyId" : "6df29261399d763283ac37d09b013da3",
+  "time" : {
+    "start" : 1654004152763,
+    "stop" : 1654004154745,
+    "duration" : 1982
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the decades of innovation section title and description"
+  }, {
+    "name" : "package",
+    "value" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cb3a7620949864b.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

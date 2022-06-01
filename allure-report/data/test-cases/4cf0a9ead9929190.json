@@ -1,0 +1,60 @@
+{
+  "uid" : "4cf0a9ead9929190",
+  "name" : "should show and verify the driver monitoring cameras icon visibility, title value, and text value",
+  "fullName" : "TC0004 - Car Safety Options Verification.should show and verify the driver monitoring cameras icon visibility, title value, and text value",
+  "historyId" : "5bc499c0080089f41ca90019bb73d7d5",
+  "time" : {
+    "start" : 1654023398125,
+    "stop" : 1654023409834,
+    "duration" : 11709
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the driver monitoring cameras icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cf0a9ead9929190.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

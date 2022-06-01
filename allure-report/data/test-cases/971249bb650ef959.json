@@ -1,0 +1,78 @@
+{
+  "uid" : "971249bb650ef959",
+  "name" : "6.4 should show and verify the care key icon callouts icon visibility, title value, and text value",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.6.4 should show and verify the care key icon callouts icon visibility, title value, and text value",
+  "historyId" : "6d92b8d31c63edb26c57852aeaaa9a99",
+  "time" : {
+    "start" : 1653934404896,
+    "stop" : 1653934416215,
+    "duration" : 11319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "6.4 should show and verify the care key icon callouts icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76ebe175d15e3ebd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934183415,
+        "stop" : 1653934194657,
+        "duration" : 11242
+      }
+    }, {
+      "uid" : "8e34ba856848b4bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653933965467,
+        "stop" : 1653933976840,
+        "duration" : 11373
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "971249bb650ef959.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

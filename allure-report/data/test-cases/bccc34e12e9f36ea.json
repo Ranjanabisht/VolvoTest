@@ -1,0 +1,78 @@
+{
+  "uid" : "bccc34e12e9f36ea",
+  "name" : "6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value",
+  "fullName" : "TC0006 - Main Page Element Verification - Icon Callouts.6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value",
+  "historyId" : "651eb3956623544e8c29e1ba3fd6d44d",
+  "time" : {
+    "start" : 1653934379403,
+    "stop" : 1653934382509,
+    "duration" : 3106
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "testMethod",
+    "value" : "6.1 should show and verify the speed cap icon callouts icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0006 - Main Page Element Verification - Icon Callouts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6fee1cb896b14654",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653934158451,
+        "stop" : 1653934161212,
+        "duration" : 2761
+      }
+    }, {
+      "uid" : "7c5319758b657075",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653933940526,
+        "stop" : 1653933943229,
+        "duration" : 2703
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bccc34e12e9f36ea.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

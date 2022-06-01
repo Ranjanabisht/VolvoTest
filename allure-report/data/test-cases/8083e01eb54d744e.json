@@ -1,0 +1,70 @@
+{
+  "uid" : "8083e01eb54d744e",
+  "name" : "should show and verify the speed cap icon visibility, title value, and text value",
+  "fullName" : "TC0004 - Car Safety Options Verification.should show and verify the speed cap icon visibility, title value, and text value",
+  "historyId" : "f347ff5c64d01b5d3b7ab415ca66b5c9",
+  "time" : {
+    "start" : 1654024694696,
+    "stop" : 1654024701232,
+    "duration" : 6536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should show and verify the speed cap icon visibility, title value, and text value"
+  }, {
+    "name" : "package",
+    "value" : "TC0004 - Car Safety Options Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a080ef03c9ba400",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023376851,
+        "stop" : 1654023385239,
+        "duration" : 8388
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8083e01eb54d744e.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

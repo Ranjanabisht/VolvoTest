@@ -1,0 +1,62 @@
+{
+  "uid" : "14eb70cc03c852e5",
+  "name" : "4.1 should show and verify the main video if autoplayed and points to correct playback source",
+  "fullName" : "TC0004 - Main Page Element Verification - Main Video.4.1 should show and verify the main video if autoplayed and points to correct playback source",
+  "historyId" : "c3dc9e2a31e5a23f765401da5fa3b23b",
+  "time" : {
+    "start" : 1653997151855,
+    "stop" : 1653997160231,
+    "duration" : 8376
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "TC0004 - Main Page Element Verification - Main Video"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0004 - Main Page Element Verification - Main Video"
+  }, {
+    "name" : "testMethod",
+    "value" : "4.1 should show and verify the main video if autoplayed and points to correct playback source"
+  }, {
+    "name" : "package",
+    "value" : "TC0004 - Main Page Element Verification - Main Video"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14eb70cc03c852e5.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

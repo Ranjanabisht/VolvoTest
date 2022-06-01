@@ -1,0 +1,60 @@
+{
+  "uid" : "e8d173420fcdc18c",
+  "name" : "3.1 should show and verify the model intro header and text",
+  "fullName" : "TC0001 - Main Page Loading and Cookie Container Verification.3.1 should show and verify the model intro header and text",
+  "historyId" : "6a402121399538405b626e9674e1f0a",
+  "time" : {
+    "start" : 1653908764083,
+    "stop" : 1653908765195,
+    "duration" : 1112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "3.1 should show and verify the model intro header and text"
+  }, {
+    "name" : "package",
+    "value" : "TC0001 - Main Page Loading and Cookie Container Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8d173420fcdc18c.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

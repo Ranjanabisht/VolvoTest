@@ -1,0 +1,68 @@
+{
+  "uid" : "9d792b01c61279de",
+  "name" : "should click the Our Car option",
+  "fullName" : "Top Navigation should work.should click the Our Car option",
+  "historyId" : "b20cc9e0896fbc347aec8a6cf0876ddd",
+  "time" : {
+    "start" : 1653997148710,
+    "stop" : 1653997148712,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "aMillionMorePage is not defined",
+  "statusTrace" : "ReferenceError: aMillionMorePage is not defined\n                    at Context.<anonymous> (C:\\Users\\easibnr\\VolvoTest\\test\\specs\\topNavigation.js:4:16)\n                    at Context.executeAsync (C:\\Users\\easibnr\\VolvoTest\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at Context.testFrameworkFnWrapper (C:\\Users\\easibnr\\VolvoTest\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Top Navigation should work"
+  }, {
+    "name" : "testClass",
+    "value" : "Top Navigation should work"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Our Car option"
+  }, {
+    "name" : "package",
+    "value" : "Top Navigation should work"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9d792b01c61279de.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

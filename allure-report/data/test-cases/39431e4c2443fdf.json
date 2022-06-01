@@ -1,0 +1,86 @@
+{
+  "uid" : "39431e4c2443fdf",
+  "name" : "should click the Our Car option",
+  "fullName" : "TC0002 - Top Navigation Bar verfiy and click.should click the Our Car option",
+  "historyId" : "e20741fcc5d98227d19b552e76b6cf56",
+  "time" : {
+    "start" : 1654024422376,
+    "stop" : 1654024433931,
+    "duration" : 11555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect $(`//button[@id=\"nav:topNavCarMenu\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"",
+  "statusTrace" : "Error: Expect $(`//button[@id=\"nav:topNavCarMenu\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"\n                    at Context.<anonymous> (C:\\Users\\easibnr\\VolvoTest\\test\\specs\\topNavigation.js:11:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0002 - Top Navigation Bar verfiy and click"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0002 - Top Navigation Bar verfiy and click"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Our Car option"
+  }, {
+    "name" : "package",
+    "value" : "TC0002 - Top Navigation Bar verfiy and click"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "33e35414204baa3d",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`//*[@id=\"nav:topNavCarMenu\"]`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"",
+      "time" : {
+        "start" : 1654023743322,
+        "stop" : 1654023754824,
+        "duration" : 11502
+      }
+    }, {
+      "uid" : "b012e853ccd6ebc8",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`//*[@id=\"nav:topNavCarMenu\"]/em`) to be clickable\n                \n                Expected: \"clickable\"\n                Received: \"not clickable\"",
+      "time" : {
+        "start" : 1654023378395,
+        "stop" : 1654023393132,
+        "duration" : 14737
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "39431e4c2443fdf.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

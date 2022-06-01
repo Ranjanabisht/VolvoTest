@@ -1,0 +1,68 @@
+{
+  "uid" : "efaceb7688892d75",
+  "name" : "\"before each\" hook for TC0008 - Main Page Element Verification - Decades Of Innovation Section",
+  "fullName" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section.\"before each\" hook for TC0008 - Main Page Element Verification - Decades Of Innovation Section",
+  "historyId" : "6c646f4d981ae1667c92530fc85ceefe",
+  "time" : {
+    "start" : 1654004032754,
+    "stop" : 1654004034255,
+    "duration" : 1501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read properties of undefined (reading 'scrollIntoView')",
+  "statusTrace" : "TypeError: Cannot read properties of undefined (reading 'scrollIntoView')\n                    at Context.<anonymous> (C:\\Users\\easibnr\\VolvoTest\\test\\specs\\decadesPage.js:18:62)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "testClass",
+    "value" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before each\" hook for TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "package",
+    "value" : "TC0008 - Main Page Element Verification - Decades Of Innovation Section"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.67"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "efaceb7688892d75.json",
+  "parameterValues" : [ "chrome-101.0.4951.67" ]
+}

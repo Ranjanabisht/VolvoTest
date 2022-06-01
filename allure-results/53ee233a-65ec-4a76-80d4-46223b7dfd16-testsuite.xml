@@ -1,0 +1,91 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653941287300' stop='1653941301435'>
+    <name>TC0001 - Main Page Loading and Cookie Container Verification</name>
+    <title>TC0001 - Main Page Loading and Cookie Container Verification</title>
+    <test-cases>
+        <test-case start='1653941287300' status='passed' stop='1653941288779'>
+            <name>It should verify url and title</name>
+            <title>It should verify url and title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653941288779' status='passed' stop='1653941289793'>
+            <name>should show the cookies container and accept all cookies</name>
+            <title>should show the cookies container and accept all cookies</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653941289793' status='passed' stop='1653941290713'>
+            <name>should show and verify the model intro header and text</name>
+            <title>should show and verify the model intro header and text</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1653941290714' status='failed' stop='1653941301435'>
+            <name>should show and verify text statement below video</name>
+            <title>should show and verify text statement below video</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+                <parameter kind='argument' name='browser' value='chrome-101.0.4951.67'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expect $(`//*[@id="TextStatement-1"]//span[2]`) to have text
+                
+                Expected: "A million more. With new and existing safety features, we are determined to save a million more lives."
+                Received: "With new and existing safety features, we are determined to save a million more lives."</message>
+                <stack-trace>Error: Expect $(`//*[@id="TextStatement-1"]//span[2]`) to have text
+                
+                Expected: "A million more. With new and existing safety features, we are determined to save a million more lives."
+                Received: "With new and existing safety features, we are determined to save a million more lives."
+                    at Context.&lt;anonymous> (C:\Users\easibnr\VolvoTest\test\specs\home.js:39:49)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
