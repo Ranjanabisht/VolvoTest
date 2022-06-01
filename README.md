@@ -27,4 +27,4 @@ Reporting of the results is made using Allure Reports using npx allure generate 
 docker build -t \\<docker image name\\>:\\<version number\\> .
 
 ## To run the a container:
-  docker run -it <docker image name>:<version number>
+  docker run -it \<docker image name\>:\<version number>
