@@ -1,5 +1,5 @@
 ## Volvo  Test Automation Framework 
-Test automation framework infrastructure for running automated tests in Volvo Website
+Test automation framework infrastructure for running automated tests in Volvo Website (https://www.volvocars.com/intl/v/car-safety/a-million-more)
 
 ## TODO
 1. Setup the solution with its Dockerized image.
@@ -7,6 +7,16 @@ Test automation framework infrastructure for running automated tests in Volvo We
 3. Reporting of the results
 4. Documentation 
 
+## Dependencies
+    "node.js": "^16.11.1",  
+    "@wdio/cli": "^7.19.7",  
+    "@wdio/allure-reporter": "^7.19.7",  
+    "@wdio/local-runner": "^7.19.7",  
+    "@wdio/mocha-framework": "^7.19.7",  
+    "@wdio/spec-reporter": "^7.19.7",  
+    "chromedriver": "^101.0.0",  
+    "wdio-chromedriver-service": "^7.3.2"  
+    
 ## Directory Structure
 [Test] - contains test-related resources    
 [spec] - contains test case automated scripts used in Test Execution separated according to test case number and suite with the format (TCXXXX Test Case Description)    
@@ -21,10 +31,10 @@ Test automation framework infrastructure for running automated tests in Volvo We
 
 ## Description
 Parallel execution of tests done (by adjusting maxInstances in wdio.conf)  
-Reporting of the results is made using Allure Reports using npx allure generate allure-results --clean  command.
+Reporting of the results is made using Allure Reports using- npx allure generate allure-results --clean  command.
 
 ## To build the image:
-docker build -t \\<docker image name\\>:\\<version number\\> .
+docker build -t \<docker image name\>:\<version number> .
 
 ## To run the a container:
   docker run -it \<docker image name\>:\<version number>
