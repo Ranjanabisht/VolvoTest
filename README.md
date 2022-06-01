@@ -8,9 +8,9 @@ Test automation framework infrastructure for running automated tests in Volvo We
 4. Documentation 
 
 ## Directory Structure
-[Test] - contains test-related resources
-[spec] - contains test case automated scripts used in Test Execution separated according to test case number and suite with the format (TCXXXX Test Case 		Description)
-[pageobjects] - contains specific page operation selectors and keywords that are used to interact with target application
+[Test] - contains test-related resources 
+[spec] - contains test case automated scripts used in Test Execution separated according to test case number and suite with the format (TCXXXX Test Case Description) 
+[pageobjects] - contains specific page operation selectors and keywords that are used to interact with target application 
 [allure-report] - contains resources used for allure reporting
 [allure-results] - contains .json files generated on test execution used for allure report generation
 [node modules] - contains cached dependency resources used for test execution
